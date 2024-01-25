@@ -64,3 +64,8 @@ button{
     border-radius: 1rem;
 }
 
+@media screen and (min-width: 1441px) and (max-width: 2564px){
+    html{
+        font-size: 30px;
+    }
+}
