@@ -82,7 +82,12 @@ button{
     height: 10rem;
     width: 20rem;
     background-color: black;
-    font-size: 16rem;
+    font-size: 10rem;
     }
-    
+
+    .btn button{
+    width: 5rem;
+    text-align: center;
+    height: 4em;
+    }
 }
