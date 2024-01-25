@@ -68,7 +68,7 @@ button{
     html{
         font-size: 30px;
     }
-    #home, #guest{
+    #home, #guest, h1{
     width: 20rem;
     }
 }
