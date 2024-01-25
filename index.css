@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    height: 100vh;
+    background-image: url("./background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+}
+
+h1{
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 3rem;
+    
+}
+
+h2{
+    height: 10rem;
+    width: 10rem;
+    background-color: black;
+    font-size: 8rem;
+    color: pink;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+#home, #guest{
+    width: 10rem;
+}
+#home, #guest h1{
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.btn button{
+    width: 2.5rem;
+    text-align: center;
+    height: 2rem;
+}
+
+ #reset{
+    width:3.5rem;
+    height: 2rem;
+}
+
+button{
+    border-radius: 1rem;
+}
+
