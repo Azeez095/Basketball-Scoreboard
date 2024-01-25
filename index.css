@@ -85,9 +85,10 @@ button{
     font-size: 10rem;
     }
 
-    .btn button{
+    button{
     width: 5rem;
     text-align: center;
     height: 4em;
+    font-size: 3em;
     }
 }
