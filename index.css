@@ -96,9 +96,11 @@ button{
 @media screen and (min-width: 300px) and (max-width: 400px){
     .container{
         flex-direction: column;
+        justify-content: center;
+    }
     }
     #reset button{
         background-color: black;
         color: white;
-    }
+        
 }
