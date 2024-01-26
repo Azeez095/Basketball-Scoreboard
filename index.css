@@ -104,7 +104,7 @@ button{
         font-size: 2em;
     }
     #display, #displayy{
-        
+        display: flex;
         justify-content: center;
         align-items: center;
     }
