@@ -107,4 +107,9 @@ button{
         justify-content: center;
         align-items: center;
     }
+
+    #reset button{
+        color: white;
+        background-color: black;
+    }
 }
