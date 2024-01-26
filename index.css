@@ -97,15 +97,17 @@ button{
     .container{
         flex-direction: column;  
     }
-    h2{
-        height: 5rem;
-        width: 15rem;
-        text-align: center;
-        display: flex;
-        justify-content: center;
-        align-items: center;
+    h2{   
         font-size: 2em;
     }
     
-   
+   #display,#display{
+        height: 5rem;
+        width: 15rem;
+        text-align: center;
+        background-color:black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+   }
 }
