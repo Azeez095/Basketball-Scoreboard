@@ -108,9 +108,5 @@ button{
         justify-content: center;
         align-items: center;
     }
-    .btn button{
-        width: 8rem;
-        text-align: center;
-        font-size: 2em;
-    }
+   
 }
