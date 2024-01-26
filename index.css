@@ -97,6 +97,7 @@ button{
     .container{
         flex-direction: column;
         justify-content: center;
+        height: 100%;
     }
     }
     #reset button{
