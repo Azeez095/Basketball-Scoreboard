@@ -93,7 +93,7 @@ button{
     }
 }
 
-@media screen and (min-width: 300px) and (max-width: 400px){
+@media screen and (min-width: 300px) and (max-width: 450px){
     .container{ 
         flex-direction: column;
     }
@@ -108,8 +108,5 @@ button{
         align-items: center;
     }
 
-    #reset button{
-        color: white;
-        background-color: black;
-    }
+    
 }
