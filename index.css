@@ -94,20 +94,5 @@ button{
 }
 
 @media screen and (min-width: 300px) and (max-width: 400px){
-    .container{
-        flex-direction: column;  
-    }
-    h2{   
-        font-size: 2em;
-    }
     
-   #display,#display{
-        height: 5rem;
-        width: 15rem;
-        text-align: center;
-        background-color:black;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-   }
 }
