@@ -98,8 +98,8 @@ button{
         flex-direction: column;
     }
     h2{
-        height: 5rem;
-        font-size: 5em;
+        height: 3.5rem;
+        font-size: 3.5em;
         text-align: center;
     }
     #displayy, #display{
