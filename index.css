@@ -64,7 +64,7 @@ button{
     border-radius: 1rem;
 }
 
-@media screen and (min-width: 1000px){
+@media screen and (min-width: 2000px){
     html{
         font-size: 30px;
     }
@@ -113,6 +113,36 @@ button{
         display:flex;
         justify-content: center;
         align-items: center;
+    }
+
+}
+@media screen and (min-width: 1000px) and (max-width: 1500px){
+    #home, #guest{
+        width: 20rem;
+    }
+    
+    h1{
+        font-size: 6rem;
+        margin-bottom: 3rem;
+    }
+
+    h2{
+        height: 10rem;
+        width: 20rem;
+        background-color: black;
+        font-size: 10rem;
+    }
+    .btn button{
+        width: 6rem;
+        text-align: center;
+        height: 3em;
+        font-size: 1em;
+    }
+
+    #reset button{
+        width: 7rem;
+        height: 2.5rem;
+        font-size: 1.5em;
     }
 
 }
