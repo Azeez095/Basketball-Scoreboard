@@ -95,6 +95,9 @@ button{
        width: 7rem; 
        height: 3em;
     }
+    #reset{
+        width: 6rem:
+    }
 }
 
 @media screen and (min-width: 300px) and (max-width: 400px){
