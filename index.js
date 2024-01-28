@@ -1,6 +1,6 @@
-let home= document.getElementByClassName("displayy");
-let guest = document.getElementByClassName("display");
-let resett = document.getElementByClassName("reset");
+let home= document.getElementsByClassName("displayy");
+let guest = document.getElementsByClassName("display");
+let resett = document.getElementsByClassName("reset");
   
 let homePlay = 0
 let guestPlay = 0
