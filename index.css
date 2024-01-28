@@ -92,7 +92,7 @@ button{
         font-size: 1em;
     }
 
-    section .reset{
+    section button .reset{
         width: 100px;
     }
 }
