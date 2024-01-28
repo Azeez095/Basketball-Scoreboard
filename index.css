@@ -92,9 +92,12 @@ button{
         font-size: 1em;
     }
 
-    section button .reset{
-        width: 100px;
+    #reset button{
+        width:5.5rem;
+        height: 2rem;
+        font-size: 1.5em;
     }
+
 }
 
 @media screen and (min-width: 300px) and (max-width: 400px){
